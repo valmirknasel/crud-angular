@@ -1,0 +1,8 @@
+[
+  {"_id": "1", "name": "Curso Teste 1", "category": "Front-End"},
+  {"_id": "2", "name": "Curso Teste 2", "category": "Back-End"},
+  {"_id": "3", "name": "Curso Teste 3", "category": "Back-End"},
+  {"_id": "4", "name": "Curso Teste 4", "category": "Front-End"},
+  {"_id": "5", "name": "Curso Teste 5", "category": "Back-End"},
+  {"_id": "6", "name": "Curso Teste 6", "category": "Front-End"}
+]

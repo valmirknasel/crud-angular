@@ -9,3 +9,17 @@ table {
 .titulo-tabela {
   font-size: large;
 }
+
+.legenda-tabela {
+  font-style: italic;
+  text-align: right;
+}
+
+.loading-spinner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 25px;
+  background: rgba(0,0,0,0.030);
+
+}
